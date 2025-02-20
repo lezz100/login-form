@@ -38,6 +38,7 @@ $conn->close();
             <input type="text" name="username" placeholder="Username" required>
             <input type="password" name="password" placeholder="Password" required>
             <button type="submit">Login</button>
+            <h2>Welcome</h2>
         </form>
         <!-- <form id="loginForm">
             <h2>Login</h2>
